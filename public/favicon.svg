@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Traditional Ceramic Pickle Jar (Martaban) Motif -->
+  <!-- Jar Lid / Cloth Top -->
+  <path d="M22 14C22 11.7909 23.7909 10 26 10H38C40.2091 10 42 11.7909 42 14V17H22V14Z" fill="#F2B632"/>
+  <path d="M19 17C19 16.4477 19.4477 16 20 16H44C44.5523 16 45 16.4477 45 17V20H19V17Z" fill="#5B1720"/>
+  <!-- Tied Cord / Thread -->
+  <line x1="20" y1="18.5" x2="44" y2="18.5" stroke="#FFF4E3" stroke-width="1.5" stroke-dasharray="2 1"/>
+  <!-- Jar Body -->
+  <path d="M16 24C16 21.7909 17.7909 20 20 20H44C46.2091 20 48 21.7909 48 24V48C48 53.5228 43.5228 58 38 58H26C20.4772 58 16 53.5228 16 48V24Z" fill="#FFF4E3"/>
+  <!-- Jar Top Cream Glaze & Bottom Terracotta/Pickle Red -->
+  <path d="M16 34C20 36 28 36 32 34C36 32 44 32 48 34V48C48 53.5228 43.5228 58 38 58H26C20.4772 58 16 53.5228 16 48V34Z" fill="#781E26"/>
+  <!-- Chili / Spices accent inside -->
+  <circle cx="32" cy="45" r="4.5" fill="#F2B632"/>
+  <path d="M30 43C31 41 33 41 34 43" stroke="#5B1720" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Outline -->
+  <path d="M16 24C16 21.7909 17.7909 20 20 20H44C46.2091 20 48 21.7909 48 24V48C48 53.5228 43.5228 58 38 58H26C20.4772 58 16 53.5228 16 48V24Z" stroke="#5B1720" stroke-width="2.5"/>
+</svg>
